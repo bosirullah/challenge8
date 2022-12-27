@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/bosirullah/challenge8](https://github.com/bosirullah/challenge8)
+- Live Site URL: [https://bosirullah.github.io/challenge8/](https://bosirullah.github.io/challenge8/)
 
 ## My process
 
@@ -44,5 +44,3 @@ I have learnt to use javascript.
 
 - Website - [MD BOSIRULLAH MONDAL](https://github.com/)
 - Frontend Mentor - [@bosirullah](https://www.frontendmentor.io/profile/bosirullah)
-
-
